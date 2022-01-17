@@ -1,4 +1,4 @@
-# TinyJAMBU_Cipher
+# TinyJAMBU
 
 Python ile TinyJAMBU hafif blok şifreleyicisinin gerçeklenmesi.
 
