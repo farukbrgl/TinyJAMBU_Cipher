@@ -1,3 +1,4 @@
+# execution time : 410.777 s
 import tinyjambu
 
 S = [0] * 128
