@@ -15,5 +15,4 @@ klen = 128
 S = [0x0]*128
 K = [0x0]*128
 
-a = state_update(S, K, 640)
-print(a)
+a = state_update(S, K, 2048)
